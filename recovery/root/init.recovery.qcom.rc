@@ -25,7 +25,7 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-import init.ugglite_variants.rc
+import init.ugg_variants.rc
 
 on fs
     wait /dev/block/platform/soc/${ro.boot.bootdevice}
