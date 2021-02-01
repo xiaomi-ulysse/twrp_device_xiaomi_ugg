@@ -25,7 +25,3 @@ $(call inherit-product, vendor/omni/config/common.mk)
 ALLOW_MISSING_DEPENDENCIES=true
 
 PRODUCT_NAME := omni_mi8937
-
-PRODUCT_SYSTEM_PROPERTY_BLACKLIST += \
-    ro.product.model
-
