@@ -16,7 +16,7 @@
 
 $(call inherit-product, build/target/product/embedded.mk)
 
-$(call inherit-product, device/xiaomi/ugg/full_ugg.mk)
+$(call inherit-product, device/xiaomi/mi8937/full_mi8937.mk)
 
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
@@ -24,7 +24,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Allow missing dependenciea
 ALLOW_MISSING_DEPENDENCIES=true
 
-PRODUCT_NAME := omni_ugg
+PRODUCT_NAME := omni_mi8937
 
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST += \
     ro.product.model

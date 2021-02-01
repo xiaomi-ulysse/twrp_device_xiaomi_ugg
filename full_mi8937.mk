@@ -30,8 +30,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/recovery/kernel:kernel
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := ugg
-PRODUCT_NAME := full_ugg
+PRODUCT_DEVICE := mi8937
+PRODUCT_NAME := full_mi8937
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi Note 5A Prime
+PRODUCT_MODEL := MSM8937
 PRODUCT_MANUFACTURER := Xiaomi

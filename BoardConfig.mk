@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/xiaomi/ugg
+LOCAL_PATH := device/xiaomi/mi8937
 
 TARGET_USES_64_BIT_BINDER := true
 

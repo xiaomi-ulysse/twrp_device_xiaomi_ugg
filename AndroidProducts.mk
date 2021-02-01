@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_ugg.mk \
-	$(LOCAL_DIR)/full_ugg.mk
+	$(LOCAL_DIR)/omni_mi8937.mk \
+	$(LOCAL_DIR)/full_mi8937.mk

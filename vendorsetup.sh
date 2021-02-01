@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_ugg-userdebug
-add_lunch_combo omni_ugg-eng
+add_lunch_combo omni_mi8937-userdebug
+add_lunch_combo omni_mi8937-eng
